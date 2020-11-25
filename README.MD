@@ -21,7 +21,7 @@ You will need to have, or obtain, skills in:
 # SIM900 Set up
 Pictured below is the SIM900 shield mounted on top of the Arduino UNO (hidden from view). 
 Note:
-1.	The required jumper settings to allow software serial to be use IO pins 8 & 7. 
+1.	The required jumper settings to allow software serial to use IO pins 8 & 7. 
 2.	External power is needed from a 9V to 12V 2A (or better) power supply. Make sure the power switch is the position shown. 
 3.	Always have an antenna connected when powered, not doing so could cause damage to the RF power stage of the modem. The antenna connector has been removed from the board as shown due to short comings in the board layout, not doing so may result in unpredictable operation.
 4.	Once power is applied the GSM modem it will need turning on by pressing the power key.
